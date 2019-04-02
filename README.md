@@ -5,5 +5,7 @@
 
 Image for lualatex builds with all bells and whistles
 
+[dockerhub](https://hub.docker.com/r/brokenpylons/lualatex-build)
+
 ## See also
 * [docker-lualatex](https://github.com/brokenpylons/docker-lualatex)
