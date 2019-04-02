@@ -4,3 +4,6 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/brokenpylons/lualatex-build.svg)
 
 Image for lualatex builds with all bells and whistles
+
+## See also
+* [docker-lualatex](https://github.com/brokenpylons/docker-lualatex)
