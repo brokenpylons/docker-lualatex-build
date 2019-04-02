@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/brokenpylons/docker-lualatex-build.svg?branch=master)](https://travis-ci.org/brokenpylons/docker-lualatex-build)
 ![Docker Pulls](https://img.shields.io/docker/pulls/brokenpylons/lualatex-build.svg)
 
-Image for lualatex builds with all bells and whistles.
+Image for lualatex builds with all bells and whistles. It currently includes just make and latexmk, but additional packages will be added if needed (as long as the size doesn't increase significantly).
 
 Based on:
 - brokenpylons/lualatex
@@ -11,7 +11,6 @@ Based on:
 Included:
 - make
 - latexmk
-- ... (if needed)
 
 [dockerhub](https://hub.docker.com/r/brokenpylons/lualatex-build)
 
