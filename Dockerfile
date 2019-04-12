@@ -1,4 +1,4 @@
-FROM brokenpylons/lualatex
+FROM brokenpylons/lualatex:v0.0.2
 ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && \
